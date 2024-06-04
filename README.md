@@ -1,2 +1,2 @@
-# financial_market
- Repository with projects using python to solve some financial market study cases
+# Data Science repository
+ Hi, this repositoy contains some projects using python, machine learning, web scrapping and data science analysis.
